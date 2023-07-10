@@ -1,10 +1,10 @@
 # Keys words used with GitHub:
 
-git status # current status of repository
+git status # current status of the repository
 
-git add -A # adds altered und untracked files to staging area
+git add -A # adds altered and untracked files to the staging area
 
 git commit -am '<message>' #commit changes with message
 
 git push # push committed up to GitHub
-git pull # pull any changes from GitHub down to local repository
+git pull # pull any changes from GitHub down to the local repository
